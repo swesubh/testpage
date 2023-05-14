@@ -20,7 +20,8 @@ Thank you for reviewing my profile, and I would be honored to connect with you h
     
     _December 2018 - February 2023_
 
-    #### **Role Description:**
+    **Role Description:**
+
     • As a Senior Developer for a Fortune 500 company, I have been instrumental in migrating legacy products to new, optimized versions. Through my work on this project, I have demonstrated my extensive development skills, including writing unit tests and ensuring client requirements are met to the highest standard.
 
     • In addition to my technical expertise, I have also taken on a mentorship role, working with junior team
@@ -31,20 +32,21 @@ Thank you for reviewing my profile, and I would be honored to connect with you h
     asset to any team. My experience in legacy product migration, coupled with my technical skills and
     leadership abilities, position me well for any Senior Developer role.
 
-    #### **Skills**: Microservice Architecure, CI-CD, Cloud Computing, Java, Nodejs, SSR.
+    **Skills**: Microservice Architecure, CI-CD, Cloud Computing, Java, Nodejs, SSR.
 
 * **_Fullstack Engineer_** at Confidential
     
     _June 2016 - November 2018_
 
-    #### **Role Description:**
+    **Role Description:**
+
     • I have redesigned the software architecture for a legacy application. That helps customers to create and e-commerce solutions. That offers a one-touch payment gateway, order analytics/tracking, and less overhead deployment of the service with minimal technical knowledge. I detect the problem with the legacy application and design a microservice-based architecture. New Software architecture reduces the cost by almost 70% and increases the turnaround time by almost 90%. I have also been responsible for creating two services. Writing packages that consume that two services. I have also responsible for DevOps engineering for the application.
 
     • I had contributed as a senior developer on a product, that provides a single roof solution for other services of the organization. The application maintains the client database and provides a single signon feature for other applications for the same organization. this application also manages payment and subscriptions for the client to the other applications for the same organization.
 
     • Worked as a part of the product development team that built a Self-Managed E-Commerce application, which supports heterogeneous hosting providers, plugin-based extensible features, multiple CRM integrations, custom payment gateways, and much other automation.
 
-    #### **Skills**: Nodejs, React, Angular, CRM, Websocket, RabbitMq, Message Broker, GCP, Git, Jenkins, Cloud Computing, Microservice Architecure, CI-CD, Java, Nodejs, SSR, python.
+    **Skills**: Nodejs, React, Angular, CRM, Websocket, RabbitMq, Message Broker, GCP, Git, Jenkins, Cloud Computing, Microservice Architecure, CI-CD, Java, Nodejs, SSR, python.
 
 ### **Education** <hr>
 
